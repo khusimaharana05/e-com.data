@@ -1,0 +1,197 @@
+
+{
+  "name": "all-kimo",
+  "version": "1.0.0",
+  "description": "data for my website",
+  "main": "image.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  "imagedata"
+  ],
+  "author": "khusimaharana2005",
+  "license": "ISC"
+}
+[
+  {
+    "catagory-id":1,
+    "id":1,
+    "name":"laptop",
+    "image":"image_cata_prod/image 1.jpeg"
+  },
+  {
+  "catagory-id":2,
+  "id":2,
+  "name":"helmet",
+  "image":"image_cata_prod/image 2.jpeg"
+  },
+  {
+  "catagory-id":3,
+  "id":3,
+  "name":"phone",
+  "image":"image_cata_prod/image 3.jpeg"
+  },
+  {
+  "catagory-id":4,
+  "id":4,
+  "name":"vivo",
+  "image":"image_cata_prod/image 4.jpeg"
+  },
+  {
+  "catagory-id":5,
+  "id":5,
+  "name":"laptop",
+  "image":"image_cata_prod/image 5.jpeg"
+  },
+  {
+  "catagory-id":6,
+  "id":6,
+  "name":"printer",
+  "image":"image_cata_prod/image 6.jpeg"
+  },
+  {
+  "catagory-id":7,
+  "id":7,
+  "name":"kids toy",
+  "image":"image_cata_prod/image 7.jpeg"
+  },
+  {
+    "catagory-id":8,
+    "id":8,
+    "name":"doll",
+    "image":"image_cata_prod/image 8.jpeg"
+  },
+  {
+  "catagory-id":9,
+  "id":9,
+  "name":"car",
+  "image":"image_cata_prod/image 9.jpeg"
+  },
+  {
+  "catagory-id":10,
+  "id":10,
+  "name":"dress",
+  "image":"image_cata_prod/image 10.webp"
+  },
+  {
+  "catagory-id":11,
+  "id":11,
+  "name":"blue heels",
+  "image":"image_cata_prod/image 11.jpeg"
+  },
+  {
+  "catagory-id":12,
+  "id":12,
+  "name":"red heels",
+  "image":"image_cata_prod/image 12.jpeg"
+  },
+  {
+  "catagory-id":13,
+  "id":13,
+  "name":"earpods",
+  "image":"image_cata_prod/image 13.jpeg"
+  },
+  {
+  "catagory-id":14,
+  "id":14,
+  "name":"rings",
+  "image":"image_cata_prod/image 14.jpeg"
+  },
+  {
+  "catagory-id":15,
+  "id":15,
+  "name":"ring",
+  "image":"image_cata_prod/image 15.jpeg"
+  },
+  {
+  "catagory-id":16,
+  "id":16,
+  "name":"pavani gold bracelet",
+  "image":"image_cata_prod/image 16.jpeg"
+  },
+  {
+  "catagory-id":17,
+  "id":17,
+  "name":"dual toned gold bracelet",
+  "image":"image_cata_prod/image 17.jpeg"
+  },
+  {
+  "catagory-id":18,
+  "id":18,
+  "name":"gold bracelet",
+  "image":"image_cata_prod/image 18.jpeg"
+  },
+  {
+  "catagory-id":19,
+  "id":19,
+  "name":"encircled mangalasutra gold bracelet",
+  "image":"image_cata_prod/image 19.jpeg"
+  },
+  {
+    "catagory-id":20,
+    "id":20,
+    "name":"chain",
+    "image":"image_cata_prod/image 20.jpeg"
+  },
+  {
+    "catagory-id":21,
+    "id":21,
+    "name":"gold anklets",
+    "image":"image_cata_prod/image 21.jpeg"
+  },
+  {
+    "catagory-id":22,
+    "id":22,
+    "name":"hoodie",
+    "image":"image_cata_prod/image 22.jpeg"
+  },
+  {
+    "catagory-id":23,
+    "id":23,
+    "name":"crocs",
+    "image":"image_cata_prod/image 23.jpeg"
+  },
+  {
+    "catagory-id":24,
+    "id":24,
+    "name":"heels",
+    "image":"image_cata_prod/image 24.jpeg"
+  },
+  {
+    "catagory-id":25,
+    "id":25,
+    "name":"t.v",
+    "image":"image_cata_prod/image 25.jpeg"
+  },
+  {
+    "catagory-id":26,
+    "id":26,
+    "name":"beauty products",
+    "image":"image_cata_prod/image 26.jpeg"
+  },
+  {
+    "catagory-id":27,
+    "id":27,
+    "name":"bengals",
+    "image":"image_cata_prod/image 27.jpeg"
+  },
+  {
+    "catagory-id":28,
+    "id":28,
+    "name":"nose rings",
+    "image":"image_cata_prod/image 28.jpeg"
+  },
+  {
+    "catagory-id":29,
+    "id":29,
+    "name":"footwear1",
+    "image":"image_cata_prod/image 29.jpeg"
+  },
+  {
+    "catagory-id":30,
+    "id":30,
+    "name":"footwear2",
+    "image":"image_cata_prod/image 30.jpeg"
+  }
+]
